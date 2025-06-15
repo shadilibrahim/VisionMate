@@ -25,12 +25,13 @@ Below is the complete model of VISION MATE:
 
 ![VISION MATE Model](https://github.com/user-attachments/assets/17078ca5-b9c6-4d42-b65c-580805e6fb10)
 
+## Model Working Screenshots 
+![Screenshot 2025-02-04 190942](https://github.com/user-attachments/assets/d329aa63-c575-4eb6-b771-1d5e0b8e30e9)
+![Screenshot 2025-02-04 190842](https://github.com/user-attachments/assets/3a65dc3b-5724-455c-9b22-3daa46571557)
+
+
 ## Installation
 To set up VISION MATE, follow these steps:
 1. Clone the repository:
    ```sh
    git clone https://github.com/shadilibrahim/VisionMate.git
-
-
-
-
